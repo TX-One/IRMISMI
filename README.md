@@ -21,7 +21,7 @@ IRMISMI is an advanced script designed to extract IMSI from a target phone numbe
 ## 📥 Installation  
 
 
-📖 Refer to INSTALLATION.md for a detailed setup guide.
+📖 Refer to [INSTALLATION.md](https://github.com/TX-One/IRMISMI/blob/main/INSTALLATION.md) for a detailed setup guide.
 
 
 ---
@@ -62,7 +62,7 @@ Once you obtain an IMSI, various open-source tools can be used for further analy
 
 🔹 SIM Swap Attacks - Hijack accounts using IMSI-based fraud.
 
-📖 Check USAGE.md for an in-depth overview.
+📖 Check [USAGE.md](https://github.com/TX-One/IRMISMI/blob/main/USAGE.md) for an in-depth overview.
 
 
 ---
@@ -88,7 +88,7 @@ Once you obtain an IMSI, various open-source tools can be used for further analy
 
 🔹 IMSI not appearing? → An external modem may be required for more accurate results.
 
-📖 Check TROUBLESHOOTING.md for detailed solutions.
+📖 Check [TROUBLESHOOTING.md](https://github.com/TX-One/IRMISMI/blob/main/TROUBLESHOOTING.md) for detailed solutions.
 
 
 ---
