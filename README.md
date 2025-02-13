@@ -28,7 +28,7 @@ IRMISMI is an advanced script designed to extract IMSI from a target phone numbe
 
 🚀 Usage Guide
 
-📖 Refer to USAGE.md for options.
+📖 Refer to [USAGE.md](https://github.com/TX-One/IRMISMI/blob/main/USAGE.md) for options.
 
 
 ---
