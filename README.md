@@ -88,7 +88,7 @@ Once you obtain an IMSI, various open-source tools can be used for further analy
 
 🔹 IMSI not appearing? → An external modem may be required for more accurate results.
 
-📖 Check [TROUBLESHOOTING.md](https://github.com/TX-One/IRMISMI/blob/main/TROUBLESHOOTING.md) for detailed solutions.
+📖 Check [TROUBLESHOOTING.md](https://github.com/TX-One/IRMISMI/blob/main/TROUBLESHOOTING.md) && [faq.md](https://github.com/TX-One/IRMISMI/blob/main/faq.md) for detailed solutions.
 
 
 ---
