@@ -1,4 +1,4 @@
-#Installation Guide
+# Installation Guide
 
 ## 📌 Prerequisites:
 
@@ -18,41 +18,38 @@
 # 1. Update and Install Dependencies
 
 🔹 Open Termux and run the following commands:
+```bash
+ apt update && apt upgrade -y
 
-🔹 apt update && apt upgrade -y
-
-🔹 pkg install bash coreutils termux-api -y
-
+ pkg install bash coreutils termux-api -y
+```
 
 # 2. Grant Storage Permissions
 
 🔹 Run the following command to allow Termux to access your device’s storage:
-
+```bash
 termux-setup-storage
-
+```
 
 # 3. Download the Script
 
 🔹 Clone the repository or download the script manually:
-
+```bash
 git clone https://github.com/TX-One/IRMISMI.git
 
 cd IRMISMI
 
-
-# 4. Make the Script Executable
-
-Set execution permissions for the script:
+# Set execution permissions for the script:
 
 chmod +x irmismi.sh
-
+```
 
 # 5. Run the Script
 
 🔹 Execute the tool by running:
-
+```bash
 ./irmismi.sh
-
+```
 ---
 
 ## 📌 Usage
@@ -61,7 +58,7 @@ chmod +x irmismi.sh
 
 🔹 It will attempt to access the internal modem or detect an external modem.
 
-🔹 If Flash SMS fails, it will send a regular SMS.
+🔹 If Flash SMS fails, it will send a regular SMS (your custom message) .
 
 🔹 The tool will monitor cellular activity and extract IMSI details.
 
