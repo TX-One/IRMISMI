@@ -43,7 +43,7 @@ IRMISMI is an advanced script designed to extract IMSI from a target phone numbe
 
 ✅ Enabled Debug Mode or Diag Mode for bypassing restrictions
 
-📖 See REQUIRMENTS.md for full specifications.
+📖 See [REQUIRMENTS.md](https://github.com/TX-One/IRMISMI/blob/main/REQUIRMENTS.md) for full specifications.
 
 
 ---
