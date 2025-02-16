@@ -26,14 +26,14 @@ IRMISMI is an advanced script designed to extract IMSI from a target phone numbe
 
 ---
 
-🚀 Usage Guide
+## 🚀 Usage Guide
 
 📖 Refer to [USAGE.md](https://github.com/TX-One/IRMISMI/blob/main/USAGE.md) for options.
 
 
 ---
 
-🛠 System Requirements
+## 🛠 System Requirements
 
 ✅ Android device running Termux
 
@@ -48,7 +48,7 @@ IRMISMI is an advanced script designed to extract IMSI from a target phone numbe
 
 ---
 
-📊 IMSI Data Analysis with Advanced Tools
+## 📊 IMSI Data Analysis with Advanced Tools
 
 Once you obtain an IMSI, various open-source tools can be used for further analysis:
 
@@ -67,7 +67,7 @@ Once you obtain an IMSI, various open-source tools can be used for further analy
 
 ---
 
-⚠️ Security & Ethical Considerations
+## ⚠️ Security & Ethical Considerations
 
 🔴 This script is strictly for educational and network security testing purposes.
 
@@ -78,7 +78,7 @@ Once you obtain an IMSI, various open-source tools can be used for further analy
 
 ---
 
-🎯 Troubleshooting & Debugging
+## 🎯 Troubleshooting & Debugging
 
 💡 If you encounter issues while running the script, consider the following:
 
@@ -93,7 +93,7 @@ Once you obtain an IMSI, various open-source tools can be used for further analy
 
 ---
 
-🤝 Contributing to the Project
+## 🤝 Contributing to the Project
 
 🔹 Have improvements? Submit a Pull Request.
 
@@ -102,14 +102,14 @@ Once you obtain an IMSI, various open-source tools can be used for further analy
 
 ---
 
-📜 License
+## 📜 License
 
 🔒 Released under the MIT License. The software is freely available for research and educational purposes, but the developer is not responsible for any illegal use.
 
 
 ---
 
-📞 Support & Contact
+## 📞 Support & Contact
 
 📢 Have questions? Reach out through:
 
